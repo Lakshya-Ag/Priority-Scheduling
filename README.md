@@ -12,3 +12,6 @@ Priority scheduling is a non-preemptive algorithm and one of the most common sch
 
 ### For Example
 ![Example](https://media.geeksforgeeks.org/wp-content/uploads/opSystemScheduling.png)
+
+### Gantt Chart
+![Chart](https://media.geeksforgeeks.org/wp-content/uploads/gantchart2.jpg)
