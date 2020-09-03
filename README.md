@@ -36,4 +36,5 @@ Process_no | Start_time | Complete_time | Trun_Around_Time | Wating_Time
 5 | 12 | 16 | 12 | 8
 
 Average Wating Time is : 5.0
+
 Average Trun Around time is : 8.2
