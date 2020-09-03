@@ -25,6 +25,7 @@ burst time-> 3 6 1 2 4
 priority-> 3 4 9 7 8
 #### Output :
 Process_no | Start_time | Complete_time | Trun_Around_Time | Wating_Time
+-----------|------------|---------------|------------------|------------
 1 | 0 | 3 | 3 | 0
 2          3           9            8           2
 4          9           11           9           7
