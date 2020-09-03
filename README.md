@@ -15,3 +15,20 @@ Priority scheduling is a non-preemptive algorithm and one of the most common sch
 
 ### Gantt Chart
 ![Chart](https://media.geeksforgeeks.org/wp-content/uploads/gantchart2.jpg)
+
+### Practical Implementation
+
+#### Input :
+process no-> 1 2 3 4 5 
+arrival time-> 0 1 3 2 4
+burst time-> 3 6 1 2 4
+priority-> 3 4 9 7 8
+#### Output :
+Process_no Start_time Complete_time Trun_Around_Time Wating_Time
+1          0           3            3           0
+2          3           9            8           2
+4          9           11           9           7
+3          11          12           9           8
+5          12          16           12          8
+Average Wating Time is : 5.0
+Average Trun Around time is : 8.2
