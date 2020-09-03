@@ -9,3 +9,6 @@ Priority scheduling is a non-preemptive algorithm and one of the most common sch
 - First input the processes with their arrival time, burst time and priority.
 - Sort the processes, according to arrival time if two process arrival time is same then sort according process priority if two process priority are same then sort according to process number.
 - Now simply apply FCFS algorithm.
+
+### For Example
+![Example](https://media.geeksforgeeks.org/wp-content/uploads/opSystemScheduling.png)
